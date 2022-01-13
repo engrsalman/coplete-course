@@ -4,3 +4,5 @@ this code is for checking that wether what is difference.
 
 
 changes for branch.
+
+these changes is for skipping stagged area.
