@@ -1,1 +1,3 @@
 as you know that i am practacing github repo. thats why i am creating this folder.
+
+this code is for checking that wether what is difference. 
