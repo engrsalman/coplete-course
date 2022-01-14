@@ -1,0 +1,17 @@
+as you know that i am practacing github repo. thats why i am creating this folder.
+
+this code is for checking that wether what is difference. 
+
+
+changes for branch.
+
+these changes is for skipping stagged area.
+
+
+now changes after adding to .gitignore.
+
+new changes after command 
+git rm --cahed index.txt
+
+
+now after commit new changes which will not be showing.
